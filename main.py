@@ -131,6 +131,7 @@ font_70 = pg.font.Font(None, 70)
 font_36 = pg.font.Font("resources/test.ttf", 36)
 animator=animations()
 player_turn_color=[192, 192, 192]
+#issue7
 class img_loader:
     color=[97,97,97]
     def load(self):
